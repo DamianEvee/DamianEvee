@@ -10,6 +10,18 @@ I view technology and logic as methods to help others navigate and interact with
 
 ---
 
+### More about me
+
+**I'm currently working on** → Expanding my game development skills & financial tools.
+**I'm currently studying** → Advanced Algorithms and Game Engines.
+**Fun Fact** → I enjoy deconstructing logic, whether it's in a game mechanic or a data set.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianEvee&show_icons=true&theme=dark&hide_border=true" alt="Damian's GitHub Stats" />
+</p>
+
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,3 +32,5 @@ I view technology and logic as methods to help others navigate and interact with
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
