@@ -18,9 +18,6 @@ I view technology and logic as methods to help others navigate and interact with
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianEvee&show_icons=true&theme=dark&hide_border=true" alt="Damian's GitHub Stats" />
-</p>
 
 ### Tech stack
 
