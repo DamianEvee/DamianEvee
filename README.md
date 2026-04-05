@@ -13,7 +13,9 @@ I view technology and logic as methods to help others navigate and interact with
 ### More about me
 
 **I'm currently working on** → Expanding my game development skills & financial tools.
+
 **I'm currently studying** → Advanced Algorithms and Game Engines.
+
 **Fun Fact** → I enjoy deconstructing logic, whether it's in a game mechanic or a data set.
 
 ---
